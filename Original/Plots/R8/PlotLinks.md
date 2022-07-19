@@ -1,0 +1,7 @@
+- [AllFields](R8/AllFields.html)
+- [AllLaps-Power](R8/AllLaps-Power.html)
+- [AllLaps-Speeds](R8/AllLaps-Speeds.html)
+- [PowerBySector](R8/PowerBySector.html)
+- [RollingCdA](R8/RollingCdA.html)
+- [SpeedBySector](R8/SpeedBySector.html)
+- [WindDirection](R8/WindDirection.html)
