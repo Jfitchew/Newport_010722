@@ -1,6 +1,7 @@
 # My Additional List to Ignore
 *.txt
 *.csv
+Videos/
 
 
 # Byte-compiled / optimized / DLL files
