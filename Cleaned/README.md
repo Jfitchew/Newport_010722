@@ -2,14 +2,14 @@
 Data Analysis for Test Runs at Newport  
 ### Data Validation  
 - [Missing Data Records](MissingDataRecs.html)  
-#### Unusual Data Peaks  ![Peaks](Power-Peaks.png)  
-- [AirSpeed-Peaks](AirSpeed-Peaks.html)
-- [Cadence-Peaks](Cadence-Peaks.html)
-- [CdA-Peaks](CdA-Peaks.html)
-- [Drag-Peaks](Drag-Peaks.html)
-- [GroundSpeed-Peaks](GroundSpeed-Peaks.html)
-- [Power-Peaks](Power-Peaks.html)
-- [TotalWeight-Peaks](TotalWeight-Peaks.html)
+#### Unusual Data Peaks  
+<img src="Power-Peaks.png" alt="power peaks" width="100"/>  - [AirSpeed-Peaks](AirSpeed-Peaks.html)
+  - [Cadence-Peaks](Cadence-Peaks.html)
+  - [CdA-Peaks](CdA-Peaks.html)
+  - [Drag-Peaks](Drag-Peaks.html)
+  - [GroundSpeed-Peaks](GroundSpeed-Peaks.html)
+  - [Power-Peaks](Power-Peaks.html)
+  - [TotalWeight-Peaks](TotalWeight-Peaks.html)
 
 
 ### Test Run - R3 (No Disk, Jordan)  
