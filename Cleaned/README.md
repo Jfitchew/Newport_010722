@@ -3,22 +3,22 @@ Data Analysis for Test Runs at Newport
 ### Data Validation  
 - [Missing Data Records](MissingDataRecs.html)  
 #### Unusual Data Peaks  
-<img src="Power-Peaks.png" alt="power peaks" width="250" style="float:right;" />  - [AirSpeed-Peaks](AirSpeed-Peaks.png)
-  - [Cadence-Peaks](Cadence-Peaks.png)
-  - [CdA-Peaks](CdA-Peaks.png)
-  - [Drag-Peaks](Drag-Peaks.png)
-  - [GroundSpeed-Peaks](GroundSpeed-Peaks.png)
-  - [Power-Peaks](Power-Peaks.png)
-  - [TotalWeight-Peaks](TotalWeight-Peaks.png)
+<img src="Power-Peaks.png" alt="power peaks" width="250" style="float:right;" />- [AirSpeed-Peaks](AirSpeed-Peaks.png)
+- [Cadence-Peaks](Cadence-Peaks.png)
+- [CdA-Peaks](CdA-Peaks.png)
+- [Drag-Peaks](Drag-Peaks.png)
+- [GroundSpeed-Peaks](GroundSpeed-Peaks.png)
+- [Power-Peaks](Power-Peaks.png)
+- [TotalWeight-Peaks](TotalWeight-Peaks.png)
 
 #### Unusual Data Peaks  
-<img src="Power-Peaks.png" alt="power peaks" width="250" style="float:right;" />  - [AirSpeed-Peaks](AirSpeed-Peaks.png)
-  - [Cadence-Peaks](Cadence-Peaks.png)
-  - [CdA-Peaks](CdA-Peaks.png)
-  - [Drag-Peaks](Drag-Peaks.png)
-  - [GroundSpeed-Peaks](GroundSpeed-Peaks.png)
-  - [Power-Peaks](Power-Peaks.png)
-  - [TotalWeight-Peaks](TotalWeight-Peaks.png)
+<img src="Power-Peaks.png" alt="power peaks" width="250" style="float:right;" />- [AirSpeed-Peaks](AirSpeed-Peaks.png)
+- [Cadence-Peaks](Cadence-Peaks.png)
+- [CdA-Peaks](CdA-Peaks.png)
+- [Drag-Peaks](Drag-Peaks.png)
+- [GroundSpeed-Peaks](GroundSpeed-Peaks.png)
+- [Power-Peaks](Power-Peaks.png)
+- [TotalWeight-Peaks](TotalWeight-Peaks.png)
 
 
 ### Test Run - R3 (No Disk, Jordan)  
