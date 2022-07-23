@@ -2,8 +2,7 @@
 Data Analysis for Test Runs at Newport  
 ### Data Validation  
 - [Missing Data Records](MissingDataRecs.html)  
-#### Unusual Data Peaks  
-![Peaks](Power-Peaks.png)  
+#### Unusual Data Peaks  ![Peaks](Power-Peaks.png)  
 - [AirSpeed-Peaks](AirSpeed-Peaks.html)
 - [Cadence-Peaks](Cadence-Peaks.html)
 - [CdA-Peaks](CdA-Peaks.html)
