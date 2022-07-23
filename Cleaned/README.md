@@ -9,6 +9,7 @@ Data Analysis for Test Runs at Newport
   - [Drag-Peaks](Drag-Peaks.png)
   - [GroundSpeed-Peaks](GroundSpeed-Peaks.png)
   - [Power-Peaks](Power-Peaks.png)
+  - [TotalWeight-Peaks](TotalWeight-Peaks.png)
 
 
 ### Test Run - R3 (No Disk, Jordan)  
