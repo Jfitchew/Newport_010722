@@ -1,7 +1,11 @@
 # My Additional List to Ignore
 *.txt
 *.csv
-Videos/
+*.mov
+*.mp4
+*.avi
+*.HEIC
+*.kva
 
 
 # Byte-compiled / optimized / DLL files
