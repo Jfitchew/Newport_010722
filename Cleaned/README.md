@@ -3,22 +3,22 @@ Data Analysis for Test Runs at Newport
 ### Data Validation  
 - [Missing Data Records](MissingDataRecs.html)  
 #### Unusual Data Peaks  
-<img src="Power-Peaks.png" alt="power peaks" width="250" style="float:right;" />  /n- [AirSpeed-Peaks](AirSpeed-Peaks.png)
-- [Cadence-Peaks](Cadence-Peaks.png)
-- [CdA-Peaks](CdA-Peaks.png)
-- [Drag-Peaks](Drag-Peaks.png)
-- [GroundSpeed-Peaks](GroundSpeed-Peaks.png)
-- [Power-Peaks](Power-Peaks.png)
-- [TotalWeight-Peaks](TotalWeight-Peaks.png)
+<img src="Power-Peaks.png" alt="power peaks" width="250" style="float:right;" />  /n- [AirSpeed-Peaks](AirSpeed-Peaks.html)
+- [Cadence-Peaks](Cadence-Peaks.html)
+- [CdA-Peaks](CdA-Peaks.html)
+- [Drag-Peaks](Drag-Peaks.html)
+- [GroundSpeed-Peaks](GroundSpeed-Peaks.html)
+- [Power-Peaks](Power-Peaks.html)
+- [TotalWeight-Peaks](TotalWeight-Peaks.html)
 
 #### Unusual Data Spikes  
-<img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;"  <br>/>- [AirSpeed-Spikes](AirSpeed-Spikes.png)
-- [Cadence-Spikes](Cadence-Spikes.png)
-- [CdA-Spikes](CdA-Spikes.png)
-- [Drag-Spikes](Drag-Spikes.png)
-- [GroundSpeed-Spikes](GroundSpeed-Spikes.png)
-- [Power-Spikes](Power-Spikes.png)
-- [TotalWeight-Spikes](TotalWeight-Spikes.png)
+<img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;"  <br>/>- [AirSpeed-Spikes](AirSpeed-Spikes.html)
+- [Cadence-Spikes](Cadence-Spikes.html)
+- [CdA-Spikes](CdA-Spikes.html)
+- [Drag-Spikes](Drag-Spikes.html)
+- [GroundSpeed-Spikes](GroundSpeed-Spikes.html)
+- [Power-Spikes](Power-Spikes.html)
+- [TotalWeight-Spikes](TotalWeight-Spikes.html)
 
 
 ### Test Run - R3 (No Disk, Jordan)  
