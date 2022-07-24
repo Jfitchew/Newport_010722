@@ -28,7 +28,7 @@
 
 #### Test Run - R7 (100mm Disk, Jordan)  
 
-#### Test Run - R8 (100mm Disk, Eric (1))  
+#### Test Run - R8 (100mm Disk, Eric)  
 
 #### Test Run - R9 (NO Disk, Jordan)  
 

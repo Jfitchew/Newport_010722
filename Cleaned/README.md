@@ -61,7 +61,7 @@ Data Analysis for Test Runs at Newport
 
 #### Videos  
 
-### Test Run - R8 (100mm Disk, Eric (1))  
+### Test Run - R8 (100mm Disk, Eric)  
 #### Plots  
 
 #### Videos  
