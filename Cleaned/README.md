@@ -2,8 +2,7 @@
 Data Analysis for Test Runs at Newport  
 ### Data Validation  
 - [Missing Data Records](MissingDataRecs.html)  
-#### Unusual Data Peaks  
-<img src="Power-Peaks.png" alt="power peaks" width="250" style="float:right;" />  /n- [AirSpeed-Peaks](AirSpeed-Peaks.html)
+#### Data Outliers  <img src="Power-Peaks.png" alt="power peaks" width="250" style="float:right;" />  - [AirSpeed-Peaks](AirSpeed-Peaks.html)
 - [Cadence-Peaks](Cadence-Peaks.html)
 - [CdA-Peaks](CdA-Peaks.html)
 - [Drag-Peaks](Drag-Peaks.html)
@@ -11,8 +10,7 @@ Data Analysis for Test Runs at Newport
 - [Power-Peaks](Power-Peaks.html)
 - [TotalWeight-Peaks](TotalWeight-Peaks.html)
 
-#### Unusual Data Spikes  
-<img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;"  <br>/>- [AirSpeed-Spikes](AirSpeed-Spikes.html)
+#### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;"/>  - [AirSpeed-Spikes](AirSpeed-Spikes.html)
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
 - [Drag-Spikes](Drag-Spikes.html)
