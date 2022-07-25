@@ -2,6 +2,9 @@
 Data Analysis for Test Run R4  
 
 ## Plots  
+- [AllFields](Plots\AllFields.html)
+- [PowerBySector](Plots\PowerBySector.html)
+- [SpeedBySector](Plots\SpeedBySector.html)
 
 ## Videos  
 - [R4-Lap10.MOV](..\..\Videos\R4-Lap10.MOV)

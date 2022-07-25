@@ -21,11 +21,17 @@ Data Analysis for Test Runs at Newport
 
 ### Test Run - R3 (No Disk, Jordan)  
 #### Plots  
+- [AllFields](R3\Plots\AllFields.html)
+- [PowerBySector](R3\Plots\PowerBySector.html)
+- [SpeedBySector](R3\Plots\SpeedBySector.html)
 
 #### Videos  
 
 ### Test Run - R4 (No Disk, Eric)  
 #### Plots  
+- [AllFields](R4\Plots\AllFields.html)
+- [PowerBySector](R4\Plots\PowerBySector.html)
+- [SpeedBySector](R4\Plots\SpeedBySector.html)
 
 #### Videos  
 - [R4-Lap10.MOV](..\Videos\R4-Lap10.MOV)
@@ -39,11 +45,17 @@ Data Analysis for Test Runs at Newport
 
 ### Test Run - R5 (50mm Disk, Jordan)  
 #### Plots  
+- [AllFields](R5\Plots\AllFields.html)
+- [PowerBySector](R5\Plots\PowerBySector.html)
+- [SpeedBySector](R5\Plots\SpeedBySector.html)
 
 #### Videos  
 
 ### Test Run - R6 (50mm Disk, Eric)  
 #### Plots  
+- [AllFields](R6\Plots\AllFields.html)
+- [PowerBySector](R6\Plots\PowerBySector.html)
+- [SpeedBySector](R6\Plots\SpeedBySector.html)
 
 #### Videos  
 - [R6-Lap10.MOV](..\Videos\R6-Lap10.MOV)
@@ -58,11 +70,17 @@ Data Analysis for Test Runs at Newport
 
 ### Test Run - R7 (100mm Disk, Jordan)  
 #### Plots  
+- [AllFields](R7\Plots\AllFields.html)
+- [PowerBySector](R7\Plots\PowerBySector.html)
+- [SpeedBySector](R7\Plots\SpeedBySector.html)
 
 #### Videos  
 
 ### Test Run - R8 (100mm Disk, Eric)  
 #### Plots  
+- [AllFields](R8\Plots\AllFields.html)
+- [PowerBySector](R8\Plots\PowerBySector.html)
+- [SpeedBySector](R8\Plots\SpeedBySector.html)
 
 #### Videos  
 
@@ -86,5 +104,8 @@ Data Analysis for Test Runs at Newport
 
 ### Test Run - R10 (BMC-M, NO Disk, Eric)  
 #### Plots  
+- [AllFields](R10\Plots\AllFields.html)
+- [PowerBySector](R10\Plots\PowerBySector.html)
+- [SpeedBySector](R10\Plots\SpeedBySector.html)
 
 #### Videos  
