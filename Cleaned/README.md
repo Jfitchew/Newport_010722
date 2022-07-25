@@ -2,7 +2,7 @@
 Data Analysis for Test Runs at Newport  
 ### Data Validation  
 - [Missing Data Records](MissingDataRecs.html)  
-#### Data Outliers  <img src="Power-Peaks.png" alt="power peaks" width="250" style="float:right;" />  - [AirSpeed-Peaks](AirSpeed-Peaks.html)
+#### Data Outliers  - [AirSpeed-Peaks](AirSpeed-Peaks.html)
 - [Cadence-Peaks](Cadence-Peaks.html)
 - [CdA-Peaks](CdA-Peaks.html)
 - [Drag-Peaks](Drag-Peaks.html)
@@ -10,13 +10,21 @@ Data Analysis for Test Runs at Newport
 - [Power-Peaks](Power-Peaks.html)
 - [TotalWeight-Peaks](TotalWeight-Peaks.html)
 
-#### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;"/>  - [AirSpeed-Spikes](AirSpeed-Spikes.html)
+#### Data Spikes  - [AirSpeed-Spikes](AirSpeed-Spikes.html)
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
 - [Drag-Spikes](Drag-Spikes.html)
 - [GroundSpeed-Spikes](GroundSpeed-Spikes.html)
 - [Power-Spikes](Power-Spikes.html)
 - [TotalWeight-Spikes](TotalWeight-Spikes.html)
+
+#### Data Cleaned  - [AirSpeed-Cleaned](AirSpeed-Cleaned.html)
+- [Cadence-Cleaned](Cadence-Cleaned.html)
+- [CdA-Cleaned](CdA-Cleaned.html)
+- [Drag-Cleaned](Drag-Cleaned.html)
+- [GroundSpeed-Cleaned](GroundSpeed-Cleaned.html)
+- [Power-Cleaned](Power-Cleaned.html)
+- [TotalWeight-Cleaned](TotalWeight-Cleaned.html)
 
 
 ### Test Run - R3 (No Disk, Jordan)  
