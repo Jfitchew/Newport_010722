@@ -1,8 +1,10 @@
 # BR Analysis Newport-010722  
 Data Analysis for Test Runs at Newport  
 ### Data Validation  
-- [Missing Data Records](MissingDataRecs.html)  
-#### Data Outliers  - [AirSpeed-Peaks](AirSpeed-Peaks.html)
+- [Missing Data Records](MissingDataRecs.html) 
+ 
+#### Data Outliers  
+- [AirSpeed-Peaks](AirSpeed-Peaks.html)
 - [Cadence-Peaks](Cadence-Peaks.html)
 - [CdA-Peaks](CdA-Peaks.html)
 - [Drag-Peaks](Drag-Peaks.html)
@@ -10,7 +12,8 @@ Data Analysis for Test Runs at Newport
 - [Power-Peaks](Power-Peaks.html)
 - [TotalWeight-Peaks](TotalWeight-Peaks.html)
 
-#### Data Spikes  - [AirSpeed-Spikes](AirSpeed-Spikes.html)
+#### Data Spikes  
+- [AirSpeed-Spikes](AirSpeed-Spikes.html)
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
 - [Drag-Spikes](Drag-Spikes.html)
@@ -18,7 +21,8 @@ Data Analysis for Test Runs at Newport
 - [Power-Spikes](Power-Spikes.html)
 - [TotalWeight-Spikes](TotalWeight-Spikes.html)
 
-#### Data Cleaned  - [AirSpeed-Cleaned](AirSpeed-Cleaned.html)
+#### Data Cleaned  
+- [AirSpeed-Cleaned](AirSpeed-Cleaned.html)
 - [Cadence-Cleaned](Cadence-Cleaned.html)
 - [CdA-Cleaned](CdA-Cleaned.html)
 - [Drag-Cleaned](Drag-Cleaned.html)
