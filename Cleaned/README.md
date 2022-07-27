@@ -11,10 +11,11 @@ Data Analysis for Test Runs at Newport
 - [Power-Peaks](Power-Peaks.html)
 - [TotalWeight-Peaks](TotalWeight-Peaks.html)
 
-#### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;" />  
+#### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;" />
 - [AirSpeed-Spikes](AirSpeed-Spikes.html)
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
+- [CrankAngle-Spikes](CrankAngle-Spikes.html)
 - [Drag-Spikes](Drag-Spikes.html)
 - [GroundSpeed-Spikes](GroundSpeed-Spikes.html)
 - [Power-Spikes](Power-Spikes.html)
@@ -24,6 +25,7 @@ Data Analysis for Test Runs at Newport
 - [AirSpeed-Cleaned](AirSpeed-Cleaned.html)
 - [Cadence-Cleaned](Cadence-Cleaned.html)
 - [CdA-Cleaned](CdA-Cleaned.html)
+- [CrankAngleDelta-Cleaned](CrankAngleDelta-Cleaned.html)
 - [Drag-Cleaned](Drag-Cleaned.html)
 - [GroundSpeed-Cleaned](GroundSpeed-Cleaned.html)
 - [Power-Cleaned](Power-Cleaned.html)
