@@ -4,7 +4,7 @@ Data Analysis for Test Runs at Newport
 - [Missing Data Records](MissingDataRecs.html) 
  
 #### Data Outliers  
-- [AirSpeed-Peaks](AirSpeed-Peaks.html)
+- [AirSpeed-Peaks](AirSpeed-Peaks.html)<img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;"/>
 - [Cadence-Peaks](Cadence-Peaks.html)
 - [CdA-Peaks](CdA-Peaks.html)
 - [Drag-Peaks](Drag-Peaks.html)
