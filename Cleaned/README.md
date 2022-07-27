@@ -11,7 +11,7 @@ Data Analysis for Test Runs at Newport
 - [Power-Peaks](Power-Peaks.html)
 - [TotalWeight-Peaks](TotalWeight-Peaks.html)
 
-#### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;"/>
+#### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" width="250" style="float:right;" />
 - [AirSpeed-Spikes](AirSpeed-Spikes.html)
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
