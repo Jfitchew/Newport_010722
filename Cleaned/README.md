@@ -16,6 +16,7 @@ Data Analysis for Test Runs at Newport
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
 - [CrankAngle-Spikes](CrankAngle-Spikes.html)
+- [CrankAngleDelta-Spikes](CrankAngleDelta-Spikes.html)
 - [Drag-Spikes](Drag-Spikes.html)
 - [GroundSpeed-Spikes](GroundSpeed-Spikes.html)
 - [Power-Spikes](Power-Spikes.html)
