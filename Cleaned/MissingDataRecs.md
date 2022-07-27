@@ -5,10 +5,10 @@ random points.
 ### Observations (excluding first and last lap):  
 - Test Run 3 - Lap 14 has 6 recs missing
 - Test Run 4 - Lap 2 has 27 recs missing
-- Test Run 5 - ok
-- Test Run 6 – 4 laps missing records (see table opposite)
-- Test Run 7 - ok
+- Test Run 5 - <span style="color:green">ok</span>
+- Test Run 6 – 4 laps missing records (see table above)
+- Test Run 7 - <span style="color:green">ok</span>
 - Test Run 8 - Lap 12 has 30 recs missing
 - Test Run 9 - Lap 15 has 30 recs missing
-- Test Run 10 - ok
+- Test Run 10 - <span style="color:green">ok</span>
 
