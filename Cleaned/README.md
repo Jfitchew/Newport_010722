@@ -2,7 +2,11 @@
 Data Analysis for Test Runs at Newport  
 ### Data Validation  
 - [Missing Data Records](MissingDataRecs.html)  
+<<<<<<< HEAD
 #### Data Outliers  <img src="Power-Peaks.png" alt="power peaks" width="225" style="float:right;" />
+=======
+#### Data Outliers  <img src="Power-Peaks.png" alt="power peaks" width="200" style="float:right;" />
+>>>>>>> 804a054a5acfbcf599d651a289c48848f64abe60
 - [AirSpeed-Peaks](AirSpeed-Peaks.html)
 - [Cadence-Peaks](Cadence-Peaks.html)
 - [CdA-Peaks](CdA-Peaks.html)
@@ -11,7 +15,11 @@ Data Analysis for Test Runs at Newport
 - [Power-Peaks](Power-Peaks.html)
 - [TotalWeight-Peaks](TotalWeight-Peaks.html)
 
+<<<<<<< HEAD
 #### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" width="225" style="float:right;" />
+=======
+#### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" width="200" style="float:right;" />
+>>>>>>> 804a054a5acfbcf599d651a289c48848f64abe60
 - [AirSpeed-Spikes](AirSpeed-Spikes.html)
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
@@ -21,7 +29,11 @@ Data Analysis for Test Runs at Newport
 - [Power-Spikes](Power-Spikes.html)
 - [TotalWeight-Spikes](TotalWeight-Spikes.html)
 
+<<<<<<< HEAD
 #### Data Cleaned  <img src="Power-Cleaned.png" alt="power cleaned" width="225" style="float:right;" />
+=======
+#### Data Cleaned  <img src="Power-Cleaned.png" alt="power cleaned" width="200" style="float:right;" />
+>>>>>>> 804a054a5acfbcf599d651a289c48848f64abe60
 - [AirSpeed-Cleaned](AirSpeed-Cleaned.html)
 - [Cadence-Cleaned](Cadence-Cleaned.html)
 - [CdA-Cleaned](CdA-Cleaned.html)
