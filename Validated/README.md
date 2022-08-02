@@ -5,6 +5,7 @@ For all Test Runs carried out at Newport Velodrome
 - [Power by Sector](PowerbySector.html)  
 - [Speed by Sector](SpeedbySector.html)  
 - [CdA by Sector](CdAbySector.html)  
+ - [VIDEOS](..\Videos)  
 ### Test Runs  
 - [R03 - No Disk, Jordan](R03\README.md)  
 - [R04 - No Disk, Eric](R04\README.md)  
