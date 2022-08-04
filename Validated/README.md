@@ -1,10 +1,10 @@
 ## BR Data Analysis Newport-010722  
 For all Test Runs carried out at Newport Velodrome  
 ### Analysis by Type  
-- [All Fields](AllFields.html)  
-- [Power by Sector](PowerbySector.html)  
-- [Speed by Sector](SpeedbySector.html)  
-- [CdA by Sector](CdAbySector.html)  
+- [All Fields](All_Fields.html)  
+- [Power by Sector](PowerBySector.html)  
+- [Speed by Sector](Ground-SpeedBySector.html)  
+- [CdA by Sector](CdABySector.html)  
  - [VIDEOS](..\Videos)  
 ### Test Runs  
 - [R03 - No Disk, Jordan](R03\)  
