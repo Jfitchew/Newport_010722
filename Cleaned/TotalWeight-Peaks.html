@@ -11,6 +11,19 @@
             <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
             
             <title>Total Weight Data Spikes</title>
+            
+            <!-- Adds a breadcrumb navigation trail -->
+            {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+            <a href="/Newport_010722/">Home</a>
+            {% for crumb in crumbs offset: 2 %}
+            {% if forloop.last %}
+                / {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
+            {% else %}
+                / <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}
+                / {{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+            {% endif %}
+            {% endfor %}
+
         </head>
         <link rel="stylesheet" type="text/css" href="df_style.css"/>
         <body>
@@ -22,7 +35,7 @@
                     <img src="TotalWeight-Peaks.png" alt = "" width = "" style = ""/>
                     <!-- Inserts MD file converted to HTML -->
                     <zero-md src="TotalWeight-Spikes.md"></zero-md> 
-                    <p><p><b>Individual Test Run Plots:</b><p><a href="R03\TotalWeight-Peaks.html">Test Run - R03</a><br><a href="R04\TotalWeight-Peaks.html">Test Run - R04</a><br><a href="R05\TotalWeight-Peaks.html">Test Run - R05</a><br><a href="R06\TotalWeight-Peaks.html">Test Run - R06</a><br><a href="R07\TotalWeight-Peaks.html">Test Run - R07</a><br><a href="R08\TotalWeight-Peaks.html">Test Run - R08</a><br><a href="R09\TotalWeight-Peaks.html">Test Run - R09</a><br><a href="R10\TotalWeight-Peaks.html">Test Run - R10</a><br></p>
+                    <p><p><b>Individual Test Run Plots:</b><p><a href="R03\TotalWeight-Peaks.html">Test Run - R03: No Disk, Jordan</a><br><a href="R04\TotalWeight-Peaks.html">Test Run - R04: No Disk, Eric</a><br><a href="R05\TotalWeight-Peaks.html">Test Run - R05: 50mm Disk, Jordan</a><br><a href="R06\TotalWeight-Peaks.html">Test Run - R06: 50mm Disk, Eric</a><br><a href="R07\TotalWeight-Peaks.html">Test Run - R07: 100mm Disk, Jordan</a><br><a href="R08\TotalWeight-Peaks.html">Test Run - R08: 100mm Disk, Eric</a><br><a href="R09\TotalWeight-Peaks.html">Test Run - R09: NO Disk, Jordan</a><br><a href="R10\TotalWeight-Peaks.html">Test Run - R10: NO Disk, Eric</a><br></p>
                     <p><a href="javascript:history.back()">...Go Back</a></p>
                 </section>
             </div>    
