@@ -26,7 +26,13 @@
                 / {{ crumb | append: '/' }}{% endfor %}">{{ crumb | remove:'.html' | capitalize }}</a>
             {% endif %}
             {% endfor %}
-
+            
+            {% assign my_variable = false %}
+            {% if my_variable == true %}
+               This statement shows if variabke is true.
+            {% else %}    
+                This statement shows if variable is false.
+            {% endif %}
         </head>
         <link rel="stylesheet" type="text/css" href="df_style.css"/>
         <body>
