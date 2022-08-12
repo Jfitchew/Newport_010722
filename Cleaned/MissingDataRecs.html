@@ -1,5 +1,8 @@
 
-    <html>
+---
+# this is an empty front matter
+---
+<html>
         <head>
             <!-- Copy this stylesheet from that chosen for the site -->
             <link rel="stylesheet" type="text/css" media="screen" href="/Newport_010722/assets/css/style.css?v=d48a7e689f7fce4ac1d1b3d7ef79c5e8da51de09">
@@ -19,7 +22,7 @@
             {% if forloop.last %}
                 / {{ crumb | remove:'.html' | capitalize }}
             {% else %}
-                / <a href="{% assign crumb_limit = forloop.index | plus: 2 %}{% for crumb in crumbs limit: crumb_limit %}
+                / <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}
                 / {{ crumb | append: '/' }}{% endfor %}">{{ crumb | remove:'.html' | capitalize }}</a>
             {% endif %}
             {% endfor %}
