@@ -28,15 +28,21 @@
             {% endfor %}
             
             {% assign my_variable = false %}
-            {% if my_variable == true %}
-               This statement shows if variabke is true.
+            {% if my_variable != true %}
+               This statement shows if variabke is false.
             {% else %}    
-                This statement shows if variable is false.
+                This statement shows if variable is true.
             {% endif %}
         </head>
         <link rel="stylesheet" type="text/css" href="df_style.css"/>
         <body>
-            <div id="main_content_wrap" class="outer">
+            {% assign my_variable = false %}
+            {% if my_variable != true %}
+               This statement shows if variabke is false.
+            {% else %}    
+                This statement shows if variable is true.
+            {% endif %}
+                <div id="main_content_wrap" class="outer">
                 <section id="main_content" class="inner">
                     <h1>Missing Data Records from test run laps</h1>
                     <p>Shown below are laps which don't have the full records count expected for their duration</p>
