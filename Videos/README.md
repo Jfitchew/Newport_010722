@@ -1,5 +1,5 @@
-## BR Video Analysis Newport-010722  
-For selected Test Runs carried out at Newport Velodrome  
+## Video Analysis  
+Short captures as rider passed 130m track marker, for selected Test Runs only
 ### Videos  
 #### Test run: R03 (No Disk, Jordan)  
 #### Test run: R04 (No Disk, Eric)  
