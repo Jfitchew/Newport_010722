@@ -1,9 +1,7 @@
 <!-- Adds a breadcrumb navigation trail -->
 {{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}}
-<a href="Newport_010722/">Home1 : </a>
-<a href="/Newport_010722/">Home2 : </a>
-<a href="Newport_010722">Home3 : </a>
-<a href="/Newport_010722">Home4 </a>
+
+<a href="/Newport_010722">Home</a>
 
 {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
