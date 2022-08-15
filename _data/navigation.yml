@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "Missing Records"
-    url: "/Cleaned/MissingDataRecs.html"
+    url: "/Cleaned/MissingDataRecs/"
   - title: "Data Outliers"
     url: "/Cleaned/"
   - title: "Data Spikes"
