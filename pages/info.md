@@ -5,7 +5,7 @@ subheadline: "Why Data Analysis?"
 teaser: "For many years I have worked as a computer programmer and data analyst. I also love to ride and race bikes. So I have put the two toghether and now provide both aero and data analysis services for cyclists..."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header_unsplash_7.jpg"
 ---
 ...while learning at the same time.
 
