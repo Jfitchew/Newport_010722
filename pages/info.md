@@ -25,7 +25,7 @@ Jason Fitchew
 
 
  [1]: http://windcheetah.net/
- [2]: {{ site.url }}/{{ site.baseurl }}
+ [2]: {{ site.url }}{{ site.baseurl }}
  [3]: #
  [4]: #
  [5]: #
