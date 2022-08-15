@@ -7,6 +7,14 @@
 *.HEIC
 *.kva
 
+# Jekyll  
+_site
+.bundle
+.DS_Store
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+Gemfile.lock
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
