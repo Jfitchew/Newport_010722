@@ -75,7 +75,7 @@ excerpt_separator  : "<!--more-->"
 # Include these files (overrides excludes list)
 include: 
     - .htaccess
-  # - "*.html"
+    - "*.html"
     
 # Exclude these files from your production _site
 exclude:
