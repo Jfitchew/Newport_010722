@@ -1,4 +1,6 @@
-
+---
+layout: page
+---
 
 ### Data Validation  
 - [Data Validarion for Test Runs at Newport](Cleaned/)
