@@ -76,7 +76,7 @@ excerpt_separator  : "<!--more-->"
 include: 
     - .htaccess
     - README.md     # JF added
-    - *.html
+    - "*.html"
     
 # Exclude these files from your production _site
 exclude:
@@ -86,7 +86,7 @@ exclude:
     - LICENSE
     - INSTALL.md
     - vendor
-    - *.md          # JF added
+    - "*.md"          # JF added
 
 
 # The language setting is used in /includes/header.html for html-settings
