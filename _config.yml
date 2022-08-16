@@ -68,7 +68,7 @@ paginate_path: "blog/page:num"   # Pagination path › Important for blog page i
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown           : kramdown
-permalink          : /:categories/:title/
+permalink          : none         # JF changed to avoid subfolders created for each index.html file
 highlight          : rouge
 excerpt_separator  : "<!--more-->"
 
