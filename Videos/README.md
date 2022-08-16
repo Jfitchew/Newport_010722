@@ -1,5 +1,4 @@
-## Video Analysis  
-Short captures as rider passed 130m track marker, for selected Test Runs only
+Short captures as rider passed 130m track marker, for selected Test Runs only  
 ### Videos  
 #### Test run: R03 (No Disk, Jordan)  
 #### Test run: R04 (No Disk, Eric)  
