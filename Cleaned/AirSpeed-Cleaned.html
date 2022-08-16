@@ -1,23 +1,31 @@
----
-layout: page-fullwidth
----
+
+    ---
+    layout: page                   
+    header:
+      title: Data Validation
+    subheadline: Data Cleaned
+    title: Cleaned Air Speed Data Plots
+    teaser: These plots show the Air Speed  data before and after being cleaned of outliers and spikes for all test runs. <br>                 Links to the individual test runs can be found below the image
+    categories:
+      - 
+    tags:
+      - 
+    style:                 # Adding additional CSS-styles to <head>
+    # breadcrumb: true     # already set to true in page.html layout
+    homepage: false        # Hack to make the navigation highlight this page as active in the topbar
+    ---
     <html>
         <head>
-               
-            <title>Air Speed Data Cleaned</title>
-           
-
+            <!-- header stuff -->
         </head>
-        <link rel="stylesheet" type="text/css" href="df_style.css"/>
+
         <body>
             <div id="main_content_wrap" class="outer">
                 <section id="main_content" class="inner">
-                    <h1>Cleaned Air Speed Data Plots</h1>
-                    <p>These plots show the Air Speed  data before and after being cleaned of outliers and spikes for all test runs. <br>                 Links to the individual test runs can be found below the image</p>
                     
                     <img src="AirSpeed-Cleaned.png" alt = "" width = "" style = ""/>
                     <!-- Inserts MD file converted to HTML -->
-                    <zero-md src="AirSpeed-Cleaned.md"></zero-md> 
+                    <zero-md src="_AirSpeed-Cleaned.md"></zero-md> 
                     <p><p><b>Individual Test Run Plots:</b><p><a href="R03\AirSpeed-Cleaned.html">Test Run - R03: No Disk, Jordan</a><br><a href="R04\AirSpeed-Cleaned.html">Test Run - R04: No Disk, Eric</a><br><a href="R05\AirSpeed-Cleaned.html">Test Run - R05: 50mm Disk, Jordan</a><br><a href="R06\AirSpeed-Cleaned.html">Test Run - R06: 50mm Disk, Eric</a><br><a href="R07\AirSpeed-Cleaned.html">Test Run - R07: 100mm Disk, Jordan</a><br><a href="R08\AirSpeed-Cleaned.html">Test Run - R08: 100mm Disk, Eric</a><br><a href="R09\AirSpeed-Cleaned.html">Test Run - R09: NO Disk, Jordan</a><br><a href="R10\AirSpeed-Cleaned.html">Test Run - R10: NO Disk, Eric</a><br></p>
                     <p><a href="javascript:history.back()">...Go Back</a></p>
                 </section>

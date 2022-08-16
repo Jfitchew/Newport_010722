@@ -1,40 +1,31 @@
 
+    ---
+    layout: page                   
+    header:
+      title: Data Validation
+    subheadline: Data Spikes
+    title: Air Speed Data Spikes Plots
+    teaser: These plots show Air Speed data spikes for all test runs. <br>                 Links to the individual test runs can be found below the image
+    categories:
+      - 
+    tags:
+      - 
+    style:                 # Adding additional CSS-styles to <head>
+    # breadcrumb: true     # already set to true in page.html layout
+    homepage: false        # Hack to make the navigation highlight this page as active in the topbar
+    ---
     <html>
         <head>
-            <!-- Copy this stylesheet from that chosen for the site -->
-            <link rel="stylesheet" type="text/css" media="screen" href="/Newport_010722/assets/css/style.css?v=d48a7e689f7fce4ac1d1b3d7ef79c5e8da51de09">
-           
-            <!-- Lightweight client-side loader that feature-detects and load polyfills only when necessary -->
-            <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
-
-            <!-- Load the element definition for converting MD to HTML -->
-            <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
-            
-            <title>Air Speed Data Spikes</title>
-            
-            <!-- Adds a breadcrumb navigation trail -->
-            {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-            <a href="/Newport_010722/">Home</a>
-            {% for crumb in crumbs offset: 2 %}
-            {% if forloop.last %}
-                / {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
-            {% else %}
-                / <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}
-                / {{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
-            {% endif %}
-            {% endfor %}
-
+            <!-- header stuff -->
         </head>
-        <link rel="stylesheet" type="text/css" href="df_style.css"/>
+
         <body>
             <div id="main_content_wrap" class="outer">
                 <section id="main_content" class="inner">
-                    <h1>Air Speed Data Spikes Plots</h1>
-                    <p>These plots show Air Speed data spikes for all test runs. <br>                 Links to the individual test runs can be found below the image</p>
                     
                     <img src="AirSpeed-Spikes.png" alt = "" width = "" style = ""/>
                     <!-- Inserts MD file converted to HTML -->
-                    <zero-md src="AirSpeed-Spikes.md"></zero-md> 
+                    <zero-md src="_AirSpeed-Spikes.md"></zero-md> 
                     <p><p><b>Individual Test Run Plots:</b><p><a href="R03\AirSpeed-Spikes.html">Test Run - R03: No Disk, Jordan</a><br><a href="R04\AirSpeed-Spikes.html">Test Run - R04: No Disk, Eric</a><br><a href="R05\AirSpeed-Spikes.html">Test Run - R05: 50mm Disk, Jordan</a><br><a href="R06\AirSpeed-Spikes.html">Test Run - R06: 50mm Disk, Eric</a><br><a href="R07\AirSpeed-Spikes.html">Test Run - R07: 100mm Disk, Jordan</a><br><a href="R08\AirSpeed-Spikes.html">Test Run - R08: 100mm Disk, Eric</a><br><a href="R09\AirSpeed-Spikes.html">Test Run - R09: NO Disk, Jordan</a><br><a href="R10\AirSpeed-Spikes.html">Test Run - R10: NO Disk, Eric</a><br></p>
                     <p><a href="javascript:history.back()">...Go Back</a></p>
                 </section>
