@@ -5,7 +5,7 @@ Short captures as rider passed 130m track marker, for selected Test Runs only
 </video>
 #### Test run: R03 (No Disk, Jordan)  
 #### Test run: R04 (No Disk, Eric)  
-- R04-Lap06.MOV[<video width="80" height="60" src="R04-Lap06.MOV" type="video/mp4"></video>](R04-Lap06.MOV)
+- [R04-Lap06.MOV](R04-Lap06.MOV)
 - [R04-Lap08.MOV](R04-Lap08.MOV)
 - [R04-Lap10.MOV](R04-Lap10.MOV)
 - [R04-Lap12.MOV](R04-Lap12.MOV)
